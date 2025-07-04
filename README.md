@@ -1,9 +1,30 @@
-- 👋 Hi, I’m @nickolis
-- 👀 I’m interested in E-Business apps
-- 🌱 I’m currently learning Python, SQL, Java, Javascript, HTML5, 
-- 📫 My email is: t8180069@aueb.gr
+# 👋 Hi, I'm Nickolis
 
-<!---
-nickolis/nickolis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Web Application Support Specialist** @Mediacube with a passion for ensuring systems run smoothly, efficiently, and without surprises. I thrive on solving tricky bugs, optimizing performance, and automating repetitive tasks.
+
+---
+
+## 🛠️ What I Do
+
+- 🧩 Troubleshoot and support complex web applications
+- ⚙️ Optimize system performance and uptime
+- 🔍 Dive deep into logs, databases, and code to find solutions
+- 🔄 Automate manual processes and support workflows
+
+---
+
+## 💡 What I’m Interested In
+
+- Linux & server monitoring
+- CI/CD and DevOps best practices
+- APIs and integration debugging
+- SQL and data management
+- Learning new tools and sharing knowledge
+
+---
+
+## 📫 Let’s Connect
+
+If you're working on something interesting or need a fresh perspective on debugging and support ops, feel free to [connect with me](https://github.com/your-username) or open an issue/pull request in one of my repos.
+
+---
