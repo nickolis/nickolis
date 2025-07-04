@@ -25,6 +25,6 @@ I'm a **Web Application Support Specialist** @Mediacube with a passion for ensur
 
 ## 📫 Let’s Connect
 
-If you're working on something interesting or need a fresh perspective on debugging and support ops, feel free to [connect with me](https://github.com/your-username) or open an issue/pull request in one of my repos.
+If you're working on something interesting or need a fresh perspective on debugging and support ops, feel free to [connect with me](https://www.linkedin.com/in/nikolas-mavromaras/) or open an issue/pull request in one of my repos.
 
 ---
