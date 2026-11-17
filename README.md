@@ -78,7 +78,6 @@ The five projects completed for the certification.
 Languages: Greek (native), English (fluent)
 
 ---
-
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/nikolas-mavromaras/)
+[LinkedIn](https://www.linkedin.com/in/nikolas-mavromaras/) · CV available on request
